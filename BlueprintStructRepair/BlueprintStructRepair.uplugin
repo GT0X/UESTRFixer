@@ -1,0 +1,20 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "0.9",
+  "FriendlyName": "Blueprint Struct Repair",
+  "Description": "Editor utility window for finding Blueprint assets, refreshing nodes, and inspecting user-defined structs used by the selected asset.",
+  "Category": "Editor",
+  "CreatedBy": "GT",
+  "EnabledByDefault": false,
+  "CanContainContent": false,
+  "IsBetaVersion": false,
+  "Installed": false,
+  "Modules": [
+    {
+      "Name": "BlueprintStructRepair",
+      "Type": "Editor",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
