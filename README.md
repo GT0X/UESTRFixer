@@ -44,6 +44,9 @@ Tools -> Blueprint Struct Repair
 
 If Unreal does not offer to rebuild automatically, regenerate project files and build the project from your IDE, or build the plugin with Unreal's `RunUAT BuildPlugin` command.
 
+## Where to Click
+  Watch This: https://www.youtube.com/watch?v=oH5nO-3qXAU
+
 ## Safety
 
 1. Do backups.
@@ -55,6 +58,6 @@ This plugin might help and fix everything. If not, you already were doomed for e
 
 The plugin does not automatically save repaired assets. Review the result, make sure Blueprints compile cleanly, and save manually only when you are satisfied with the result.
 
-If you'd like to support a dissolute lifestyle, you can support me here: https://dalink.to/gt0x or buy some fancy things for yourself.
+You can support my dissolute lifestyle here: https://dalink.to/gt0x
 
 Love You All.
